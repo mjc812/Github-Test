@@ -5,4 +5,5 @@ using UnityEngine;
 public class feature : MonoBehaviour
 {
     //this is feature
+    //this is from feature 1
 }
