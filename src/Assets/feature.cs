@@ -20,4 +20,6 @@ public class feature : MonoBehaviour
     //this is feature4 2nd log
     //this is feature6
     //this is feature 5
+
+    //this is feature 7
 }
